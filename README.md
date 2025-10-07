@@ -61,6 +61,7 @@ Com o Agente de IA para Criação de Conteúdo, você vai aprender a:
 ✅ Automatizar tarefas de leitura e transcrição de dados.  
 ✅ Desenvolver uma interface interativa com Agno Playground.
 ✅ Integrar diferentes APIs em um único fluxo inteligente.  
+✅ Integrar diferentes APIs em um único fluxo inteligente.  
 
 ---
 
