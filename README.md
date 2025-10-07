@@ -2,7 +2,9 @@
 
 O **Agente de IA para Criação de Conteúdo** é um projeto prático de inteligência artificial que ensina a construir um assistente capaz de gerar textos **persuasivos, criativos e personalizados** para diferentes contextos e objetivos.  
 
-<img src="./Agente_agno_01.png" alt="Agente Agno 01" style="display:block; margin: 0 auto;">
+<div align="center">
+  <img src="./Agente_agno_01.png" alt="Agente Agno 01" />
+</div>
 
 Com ele, é possível automatizar desde a **transcrição e leitura de textos**, até a **produção de copys e roteiros** para marketing, vendas, redes sociais e muito mais — tudo de forma intuitiva e escalável.
 
