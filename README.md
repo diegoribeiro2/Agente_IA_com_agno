@@ -59,7 +59,7 @@ Com o Agente de IA para Criação de Conteúdo, você vai aprender a:
 ✅ Projetar e estruturar prompts para gerar textos persuasivos.  
 ✅ Utilizar LLMs (como GPT ou Grok) de forma prática e eficiente.  
 ✅ Automatizar tarefas de leitura e transcrição de dados.  
-✅ Desenvolver uma interface interativa com Streamlit.  
+✅ Desenvolver uma interface interativa com Agno Playground.  
 ✅ Integrar diferentes APIs em um único fluxo inteligente. 
 
 ---
