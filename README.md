@@ -2,6 +2,8 @@
 
 O **Agente de IA para Criação de Conteúdo** é um projeto prático de inteligência artificial que ensina a construir um assistente capaz de gerar textos **persuasivos, criativos e personalizados** para diferentes contextos e objetivos.  
 
+Funcionamento da crew (realizando as taks):
+
 <div align="center">
   <img src="./Agente_agno_01.png" alt="Agente Agno 01" />
 </div>
@@ -11,6 +13,11 @@ Com ele, é possível automatizar desde a **transcrição e leitura de textos**,
 <div align="center">
   <img src="./Agente_agno_02.png" alt="Agente Agno 02" />
 </div>
+
+
+
+Acesse o relatório gerado pelo modelo : [Relatório da Pesquisa 2025](https://github.com/SEU-USER/SEU-REPO/blob/main/Relatorio_Pesquisa_Porto_Seguro_2025.txt)
+
 
 ---
 
