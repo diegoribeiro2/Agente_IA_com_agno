@@ -2,7 +2,7 @@
 
 O **Agente de IA para Criação de Conteúdo** é um projeto prático de inteligência artificial que ensina a construir um assistente capaz de gerar textos **persuasivos, criativos e personalizados** para diferentes contextos e objetivos.  
 
-Funcionamento da crew (realizando as taks):
+Funcionamento do agente:
 
 <div align="center">
   <img src="./Agente_agno_01.png" alt="Agente Agno 01" />
